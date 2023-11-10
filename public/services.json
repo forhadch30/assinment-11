@@ -1,0 +1,55 @@
+[
+    {
+        "_id": "635a0c0b64a6d231228942ae",
+        "service_id": "04",
+        "title": "engines need to determine the relevancy webpage",
+        "img": "https://i.ibb.co/HTj9x0M/young-businessman-with-laptop-computer-working-office.jpg",
+        "details":"experience graphics design!"
+  
+    },
+    {
+        "_id": "635a0c0b64a6d231228942af",
+        "service_id": "05",
+        "title": "A search engine knows the title of a webpage by finding ",
+        "img": "https://i.ibb.co/0KtXqmP/front-view-business-man-wants-shake-hands.jpg",
+        "price": "20.00",
+        "details":"experience web development!"
+        
+    },
+    {
+        "_id": "635b591a1dafe382a9da8c96",
+        "service_id": "01",
+        "title": "Along with being helpful for search engines and users",
+        "img": "https://i.ibb.co/NTdVfpG/smiling-young-businessman.jpg",
+        "price": "200.00",
+        "details":"experience digital marketing!"
+        
+    },
+    {
+        "_id": "635b5afc1dafe382a9da8c98",
+        "service_id": "02",
+        "title": "researching marketing extensively Marketing",
+        "img": "https://i.ibb.co/j3FNxJD/front-view-smiling-male-office-worker-suit-holding-documents-pointing-something-right-side-isolated.jpg",
+        "price": "150.00",
+        "details":"experience fullstick development!"
+        
+    },
+    {
+        "_id": "635b5b691dafe382a9da8c99",
+        "service_id": "03",
+        "title": "Automatic comes creating good while Google job",
+        "img": "https://i.ibb.co/RT67Qy5/young-person-during-intership.jpg",
+        "price": "30.00",
+        "details":"experience fullstick graphics design!"
+        
+    },
+    {
+        "_id": "635b5ba51dafe382a9da8c9a",
+        "service_id": "06",
+        "title": "Google it aims to match you with the most relevant page",
+        "img": "https://i.ibb.co/7p8ZM7F/male-entrepreneur-using-computer-while-working-office.jpg",
+        "price": "20.00",
+        "details":"experience fullstick digital marketing!"
+        
+    }
+]
